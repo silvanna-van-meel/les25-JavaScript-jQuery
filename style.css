@@ -1,20 +1,20 @@
 p {
     color: white;
-    background-color: blue;
+    background-color: lightslategrey;
   }
 h1 {
     text-align: center;
+    color: blue;
   }
-  
   #button {
     display: block;
     margin: 0 auto;
     padding: 10px 20px;
     font-size: 20px;
     border-radius: 50px;
+    background-color: red;
     cursor: pointer;
   }
-  
   #message {
     text-align: center;
     font-size: 24px;
