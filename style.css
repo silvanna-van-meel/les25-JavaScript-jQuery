@@ -1,0 +1,22 @@
+p {
+    color: red;
+    background-color: green;
+  }
+h1 {
+    text-align: center;
+  }
+  
+  #button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  #message {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
